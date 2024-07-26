@@ -10,7 +10,7 @@ HTML, CSS, JavaScript. I'm also diving into the world of databases with SQL, exp
 Open-source projects, innovative tech ideas, and any exciting opportunities where I can contribute and learn. I'm eager to work on projects that challenge me and help me grow.
 
 📫 How to reach me
-You can reach me via email at priscilacarlaxd.08@gmail.com. You can also connect with me on LinkedIn or follow me on Instagram.
+You can reach me via email at priscilacarlaxd.08@gmail.com. You can also connect with me on Linkedin or follow me on Instagram.
 
 😄 Pronouns
 She/Her
