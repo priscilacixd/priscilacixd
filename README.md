@@ -23,9 +23,15 @@ Full-stack development, and exploring new technologies. I enjoy learning about d
 
 ## 📫 How to reach me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/64992216767)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-carla08/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priscilacarlaxd.08@gmail.com)
+<a href="https://wa.me/64992216767" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="https://wa.me/64992216767" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:priscilacarlaxd.08@gmail.com" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ## ⚡ Fun fact
 According to my grandparents, I was born inside a computer! My love for technology has always been a big part of who I am.
