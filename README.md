@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou a Priscila!</h1>
 
 <p align="center">
-  <strong>Desenvolvedora Back-End</strong> apaixonada por transformar ideias em código e resolver problemas com tecnologia.
+  <strong>Desenvolvedora Full-Stack</strong> apaixonada por transformar ideias em código e resolver problemas com tecnologia.
 </p>
 
 ---
