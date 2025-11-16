@@ -32,11 +32,12 @@
 
 📌 **Projetos em destaque**
 
+- 💼 **[HireMe](https://github.com/priscilacixd/hire-me)**: Plataforma full-stack desenvolvida com **Next.js, TypeScript, Prisma, PostgreSQL e TailwindCSS**, focada em fluxo de cadastro, autenticação e gerenciamento de vagas. Inclui API própria, componentes reutilizáveis, boas práticas de organização e arquitetura moderna.
 - 🔗 [ForumHub](https://github.com/priscilacixd/forumHub): API RESTful com autenticação via JWT, banco de dados MySQL, Docker, Flyway e boas práticas com Spring Boot.
 - 📚 [Literalura](https://github.com/priscilacixd/literalura): Aplicação Java que consome API para listar e buscar livros. Projeto focado em prática com **consumo de APIs REST**, persistência com JPA e organização de dados.
 - 💱 [Conversor de Moedas](https://github.com/priscilacixd/conversorDeMoedas): Projeto Java que consome dados de câmbio em tempo real via API, com lógica de conversão entre diversas moedas. Ideal para demonstrar uso de **APIs externas**, tratamento de exceções e estrutura de menus.
 - 🏋️‍♀️ [Sistema de Gestão de Academia](https://github.com/priscilacixd/sistema-de-gestao-de-academia): Sistema web para gestão. Projeto full-stack, utilizando HTML, CSS, JavaScript, Node.JS, Express e PostgreSQL.
-
+---
 - 🌱 Em breve: novos projetos com integração front-end + back-end, segurança e deploy em nuvem (AWS EC2).
 - 🌱 Em breve: projeto e-commerce em andamento, full-stack.
 
